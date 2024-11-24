@@ -13,6 +13,6 @@ Source code for our paper: Sociologically-Informed Graph Neural Network
 
 ## How to Use
 To train and evaluate the model with specific parameters, run the following command:
-'''
+```
 python3 main_signn.py --method SIGNN --dataset GMF --save_dir output/ --num_hidden_layers 10 --hidden_features 8 --alpha 0.1 --beta 0.1 --num_epochs 1000 --lr 0.001 --type_odm SBCM
-'''
+```

@@ -1,5 +1,5 @@
-# Sociologically-Informed Graph Neural Network
-Source code for our paper: Sociologically-Informed Graph Neural Network
+# Sociologically-Informed Graph Neural Network for Event Prediction
+Source code for our paper: Sociologically-Informed Graph Neural Network for Event Prediction
 
 ## Requirements
 - Python 3.10
